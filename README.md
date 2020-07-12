@@ -1,2 +1,3 @@
 # Sudoko_python_custom
-Sudoko python excel
+Sudoko python custom problems excel based input
+
